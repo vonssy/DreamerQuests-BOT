@@ -4,7 +4,7 @@ Part Of Dream BOT
 - Register Here : [Part Of Dream](https://dreamerquests.partofdream.io/login?referralCodeForPOD=6e3b409e)
 - Login With X
 - Don't Forget to Connect Wallet & Social Media Account
-- Enter Code : 6e3b409e
+- Enter Code `6e3b409e`
 
 ## Features
 
@@ -41,7 +41,6 @@ Part Of Dream BOT
 ### Screenshots
 
 <div style="text-align: center;">
-  <h4><strong>Cookie String Data</strong></h4>
   <img src="image.png" alt="Image" width="500"/>
 </div>
 
